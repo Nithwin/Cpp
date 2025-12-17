@@ -1,7 +1,7 @@
-#include <cstdio>
+#include <iostream>
 
 int main(){
-    printf("Hello");
-    scanf();
+    int n;
+    std::cout << n;
     return 0;
 }
